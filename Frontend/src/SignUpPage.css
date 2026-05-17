@@ -1,0 +1,10 @@
+/* SignUpPage.css */
+
+/* 
+   Shared authentication styles are located in LoginPage.css.
+   Add any signup-specific styles below.
+*/
+
+.signup-action-btn {
+    margin-left: 0.375rem;
+}
