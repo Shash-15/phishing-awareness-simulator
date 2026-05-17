@@ -33,3 +33,21 @@ This project was developed as part of a Master's program in Computer Science.
 ## 🏗️ System Architecture
 
 The application follows a **3-tier architecture**:
+
+### Frontend
+- Built with React (SPA)
+- Handles UI, simulation display, and user interaction
+
+### Backend
+- Node.js with Express
+- Processes logic, scoring, and API requests
+
+### Database
+- SQLite for storing:
+  - User data
+  - Simulation results
+  - Performance metrics
+
+---
+
+## 📂 Project Structure
