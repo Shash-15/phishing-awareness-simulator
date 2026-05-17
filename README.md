@@ -131,16 +131,26 @@ HTTPS-ready architecture
 Backend proxy for external integrations
 Protected API endpoints
 
-ScreenShots
 
-1.Home Page
-<img width="922" height="451" alt="image" src="https://github.com/user-attachments/assets/70588522-435f-4d6c-8b1e-99cd44e2130a" />
-2.Login Page
-<img width="918" height="445" alt="image" src="https://github.com/user-attachments/assets/2781ba56-e5ff-4bb5-b2de-f47e663063f1" />
-3.Dashboard
-<img width="813" height="426" alt="image" src="https://github.com/user-attachments/assets/9f944da6-8234-47ac-bdbf-81eab2c83d58" />
+## 📸 Project Screenshots
 
+### 1. Home Page
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/70588522-435f-4d6c-8b1e-99cd44e2130a" width="900"/>
+</p>
 
+---
 
+### 2. Login Page
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2781ba56-e5ff-4bb5-b2de-f47e663063f1" width="900"/>
+</p>
+
+---
+
+### 3. Dashboard
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9f944da6-8234-47ac-bdbf-81eab2c83d58" width="900"/>
+</p>
 
 
